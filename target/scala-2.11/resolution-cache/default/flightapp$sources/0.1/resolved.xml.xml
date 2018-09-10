@@ -4,7 +4,7 @@
 		module="flightapp$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180910154114"
+		publication="20180910192437"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

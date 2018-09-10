@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlightApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FlightApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flightanalysis-build.iml" filepath="$PROJECT_DIR$/.idea/modules/flightanalysis-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flightapp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/flightapp-build.iml" />
     </modules>
   </component>
 </project>
